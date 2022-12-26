@@ -1,7 +1,7 @@
-# Laboratory Work 7
+# Database Security
 ##### Authors: Bucila Dinara, Gherman Artiom
 ##### Group: FAF-193
-In this laboratory work we created our own database usign `MongoDB`.
+In this project we created our own database usign `MongoDB`.
 Our table contains such columns like `name`, `id`, `email` and
 `password`. The `password` column contains only encrypted passwords.
 The only way to decrypt it, is to run our app. There is possibility to 
